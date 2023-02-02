@@ -9,7 +9,7 @@ This is a repository includes the source codes of paper "Security Concerns of Ad
 
 
 
-* **Run AMR for SISO Dataset:**
+* **Run AMR for SISO NEW Dataset:**
 1. Download the SISO dataset (See [RML2016.10b](https://www.dropbox.com/scl/fo/md1b7n1xibyf500sdt8nq/h?dl=0&rlkey=y2b7ph8aozkyci7xgb3lv2z7t)) and save it under AMR_SISO folder.
 
 2. Change the dataset filename in line 55 in `rmldataset2016.py`. 
