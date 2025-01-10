@@ -1,5 +1,5 @@
 # AMR_Adversarial_Attacks
-This is a repository includes the source codes of paper "Security Hardening of Intelligent Reflecting Surfaces Against Adversarial Machine Learning Attacks". 
+This is a repository includes the source codes of paper "Security Hardening of Intelligent Reflecting Surfaces Against Adversarial Machine Learning Attacks". (F. O. Catak, M. Kuzlu, H. Tang, E. Catak and Y. Zhao, in IEEE Access, vol. 10, pp. 100267-100275, 2022, doi: 10.1109/ACCESS.2022.3206012.) 
 
 ## Installation & Usage
 * **Run AMR for SISO Dataset:**
