@@ -25,6 +25,5 @@ If you in any way use this code for research that results in publications, pleas
   volume={11},
   number={},
   pages={76629-76637},
-  keywords={Perturbation methods;Modulation;Feature extraction;Solid modeling;Computational modeling;Iterative methods;Training;Artificial intelligence;Next generation networking;Generative adversarial networks;Artificial intelligence;next-generation networks;automatic modulation recognition;adversarial attacks;model poisoning;defensive distillation},
   doi={10.1109/ACCESS.2023.3296805}}
 ```
